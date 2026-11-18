@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListaDeTarefas</string>
+    <string name="audio_status_unavailable">Saída de áudio indisponível</string>
+    <string name="audio_status_available">Saída de áudio disponível</string>
+    <string name="speak_tasks">Ler tarefas em voz alta</string>
+    <string-array name="tasks">
+        <item>Verificar as notificações</item>
+        <item>Conferir os alertas de segurança</item>
+        <item>Responder aos comandos de voz</item>
+    </string-array>
+</resources>
